@@ -18,7 +18,13 @@ Languages
 ![python](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/059dccee-38ae-4e54-9a47-282e6bd2d84a)
 
 Technologies
-Git GitHub Linux TensorFlow PyTorch
+
+![git](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/7c5a032b-7897-41ab-8d55-da73494c418b)
+![github](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/ad8c1dc6-5be1-4488-bf45-d6f736cbdaaa)
+![pytorch](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/a4e50b9e-8252-4c0f-a593-20eeecdd9dab)
+![tensorflow](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/7241a279-351c-4405-85eb-07a2fcd13f42)
+![Uploading linu.svg…]()
+
 
 <!---
 MitsuiMinoru/MitsuiMinoru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
