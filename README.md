@@ -3,6 +3,7 @@
   Brings both cutting-edge programming expertise and exceptional interpersonal skills to leadership roles.
 
 Languages
+
 ![C](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/b9372b14-1782-4cf6-81ac-983f778bc8e0)
 ![C++](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/350ef3ee-d476-4c89-9530-e773fa4c7e36)
 ![java](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/adffa833-0012-4cf3-9e53-53653ba9f1d2)
