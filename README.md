@@ -23,9 +23,10 @@ Technologies
 ![github](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/ad8c1dc6-5be1-4488-bf45-d6f736cbdaaa)
 ![pytorch](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/a4e50b9e-8252-4c0f-a593-20eeecdd9dab)
 ![tensorflow](https://github.com/MitsuiMinoru/MitsuiMinoru/assets/149992522/7241a279-351c-4405-85eb-07a2fcd13f42)
-![Uploading linu.svg…]()
 
+Profile Trophy
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 MitsuiMinoru/MitsuiMinoru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
